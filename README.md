@@ -3,7 +3,7 @@ This project has been created with following steps:
 mkdir my-project
 cd my-project
 npm init -y
-npm i typescript --save-dev
+npm i -D typescript
 npx tsc --init
 npm i -D @types/node
 npm i -D ts-node-dev
