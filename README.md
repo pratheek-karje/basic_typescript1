@@ -16,3 +16,5 @@ And modified some values in tsconfig.json file.
 With yarn: `yarn run setup`
 
 With npm: `npm run setup-with-npm`
+
+Then delete the `.git` directory.
